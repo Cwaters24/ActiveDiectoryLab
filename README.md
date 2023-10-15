@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-In this Home LAb were going to walk through how to create an Active Directory home lab Enviorment using Oracale Virtual Box. Configuring and running this lab will definitely help develop your understanding of how to Active Directory and Windows networking works, so id highly recommend running through is a couple of times, ask questions where things are unclear, eventually try to build it on your own with out watching. PLease let me know if you have any questions!
+In this Home Lab were going to walk through how to create an Active Directory home lab Enviorment using Oracale Virtual Box. Configuring and running this lab will definitely help develop your understanding of how to Active Directory and Windows networking works, so id highly recommend running through is a couple of times, ask questions where things are unclear, eventually try to build it on your own with out watching. PLease let me know if you have any questions!
 <br />
 
 
